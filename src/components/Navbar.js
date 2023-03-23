@@ -11,8 +11,11 @@ function NavBar() {
                 <div>About</div>
             </Link>
 
-            <Link to='/stocks'>
-                <div>Stocks</div>
+            <Link to='/stock'>
+                <div>Stock</div>
+            </Link>
+            <Link to='/dashboard'>
+                <div>Dashboard</div>
             </Link>
         </nav>
     )
